@@ -1,0 +1,25 @@
+Restaurant Name: Emmy Kitchen
+Location: Laxmi Nagar, Delhi
+
+Indian Menu:
+
+Plain Dosa - Rupees. 30
+Veg Biryani - Rupees. 60
+Bun Tikki - Rupees. 20
+Aloo Paratha - Rupees. 40
+Poha - Rupees. 30
+
+
+Western Menu:
+
+Pancake - Rupees. 70
+sandwitch - Rupees. 50
+oatmeal with honey - Rupees. 50
+Waffles - Rupees. 50
+
+
+Beverages:
+
+Orange Juice
+pepsi - Rupees. 40
+coke - Rupees. 40
