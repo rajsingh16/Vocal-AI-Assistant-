@@ -21,7 +21,7 @@ Other dependencies specified in requirements.txt
 # Usage
 Clone this repository to your local machine.
 ```
-git clone git@github.com:
+git clone https://github.com/rajsingh16/Vocal-AI-Assistant-.git
 ```
 Install the dependencies using pip.
 ```
